@@ -8,7 +8,8 @@ the first time I try to create a repository on Git Hub
 
 contact list
 
-function:	1、search
+function:
+​					1、search
 
 ​					2、look up
 
